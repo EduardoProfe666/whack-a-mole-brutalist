@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { ref, onMounted, onUnmounted } from "vue";
+import { ref, onUnmounted } from "vue";
 import ScoreBoard from "./components/ScoreBoard.vue";
 import GameStats from "./components/GameStats.vue";
 import PowerUpIndicator from "./components/PowerUpIndicator.vue";
